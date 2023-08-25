@@ -1,0 +1,9 @@
+C:\Users\lucas\Desktop\Manoel\The_gomes_app\Manoel\Manoel\bin\Debug\Manoel.exe.config
+C:\Users\lucas\Desktop\Manoel\The_gomes_app\Manoel\Manoel\bin\Debug\Manoel.exe
+C:\Users\lucas\Desktop\Manoel\The_gomes_app\Manoel\Manoel\bin\Debug\Manoel.pdb
+C:\Users\lucas\Desktop\Manoel\The_gomes_app\Manoel\Manoel\obj\Debug\Manoel.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Manoel\The_gomes_app\Manoel\Manoel\obj\Debug\Manoel.Properties.Resources.resources
+C:\Users\lucas\Desktop\Manoel\The_gomes_app\Manoel\Manoel\obj\Debug\Manoel.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Manoel\The_gomes_app\Manoel\Manoel\obj\Debug\Manoel.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Manoel\The_gomes_app\Manoel\Manoel\obj\Debug\Manoel.exe
+C:\Users\lucas\Desktop\Manoel\The_gomes_app\Manoel\Manoel\obj\Debug\Manoel.pdb
